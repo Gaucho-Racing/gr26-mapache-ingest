@@ -1,6 +1,7 @@
 # GR26 Mapache Ingest
 
-> This service originally lived in the main Mapache monorepo. It was split into this repository as an archival snapshot while Mapache undergoes a complete v4 rewrite.
+> [!NOTE]
+> This service originally lived in the main [Mapache repository](https://github.com/Gaucho-Racing/Mapache). It was split into this repository as an archival snapshot while Mapache undergoes a complete v4 rewrite.
 
 GR26 Mapache Ingest translates live and cold-storage telemetry from Gaucho Racing's GR26 car into Mapache's current signal representation.
 
